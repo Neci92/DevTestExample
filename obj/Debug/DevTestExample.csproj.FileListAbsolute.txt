@@ -1,0 +1,7 @@
+C:\Users\Nemanja\source\repos\DevTestExample\DevTestExample\bin\Debug\DevTestExample.exe.config
+C:\Users\Nemanja\source\repos\DevTestExample\DevTestExample\bin\Debug\DevTestExample.exe
+C:\Users\Nemanja\source\repos\DevTestExample\DevTestExample\bin\Debug\DevTestExample.pdb
+C:\Users\Nemanja\source\repos\DevTestExample\DevTestExample\obj\Debug\DevTestExample.csprojAssemblyReference.cache
+C:\Users\Nemanja\source\repos\DevTestExample\DevTestExample\obj\Debug\DevTestExample.csproj.CoreCompileInputs.cache
+C:\Users\Nemanja\source\repos\DevTestExample\DevTestExample\obj\Debug\DevTestExample.exe
+C:\Users\Nemanja\source\repos\DevTestExample\DevTestExample\obj\Debug\DevTestExample.pdb
